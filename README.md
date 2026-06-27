@@ -1,1 +1,1 @@
-# Project-Kompresi-Image-dengan-PCA
+# Project Kompresi Image dengan PCA
